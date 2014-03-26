@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="labelColor">#000000</color>
+    <color name="resultsFoundColor">#FFFFFF</color>
+
+    <string name="app_name">MMTSTimeTable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="train_icon">MMTS Schedule</string>
+    <string name="fromStation">Source Station</string>
+    <string name="toStation">Destination Station</string>
+    <string name="timeBetween">Time Between(in hours)</string>
+    <string name="startTime">Start Time</string>
+    <string name="reachTime">Reach Time</string>
+    <string name="findTrains">Find Trains</string>
+    <string name="resFound">Results Found</string>
+ 
+    
+    <string name="src_prompt">Source Station</string>
+
+    <string-array name="src_array">
+        <item>Arts College</item>
+        <item>Begumpet</item>
+        <item>Bharathnagar</item>
+        <item>Borabanda</item>
+        <item>Chandanagar</item>
+        <item>Dabirpura</item>
+        <item>Fatehnagar</item>
+        <item>Falaknuma</item>
+        <item>Hafeezpet</item>
+        <item>Huppuguda</item>
+        <item>Hitech City</item>
+        <item>Jamai Osmania</item>
+        <item>James Street</item>
+        <item>Kacheguda</item>
+        <item>Khairtabad</item>
+        <item>Lingampally</item>
+        <item>Malakpet</item>
+        <item>Necklace Road</item>
+        <item>Secunderabad</item>
+        <item>Sanjeevaiah Park</item>
+        <item>Sitafalmandi</item>
+        <item>Vidyanagar</item>
+        <item>Yakatpura</item>
+    </string-array>
+
+    <string name="desc_prompt">Destination Station</string>
+
+    <string-array name="desc_array">
+        <item>Arts College</item>
+        <item>Begumpet</item>
+        <item>Bharathnagar</item>
+        <item>Borabanda</item>
+        <item>Chandanagar</item>
+        <item>Dabirpura</item>
+        <item>Fatehnagar</item>
+        <item>Falaknuma</item>
+        <item>Hafeezpet</item>
+        <item>Huppuguda</item>
+        <item>Hitech City</item>
+        <item>Jamai Osmania</item>
+        <item>James Street</item>
+        <item>Kacheguda</item>
+        <item>Khairtabad</item>
+        <item>Lingampally</item>
+        <item>Malakpet</item>
+        <item>Necklace Road</item>
+        <item>Secunderabad</item>
+        <item>Sanjeevaiah Park</item>
+        <item>Sitafalmandi</item>
+        <item>Vidyanagar</item>
+        <item>Yakatpura</item>
+    </string-array>
+
+    <string name="time_prompt">Select Start Time</string>
+
+    <string-array name="time_array">
+        <item>"00:00:00"</item>
+        <item>"01:00:00"</item>
+        <item>"02:00:00"</item>
+        <item>"03:00:00"</item>
+        <item>"04:00:00"</item>
+        <item>"05:00:00"</item>
+        <item>"06:00:00"</item>
+        <item>"07:00:00"</item>
+        <item>"08:00:00"</item>
+        <item>"09:00:00"</item>
+        <item>"10:00:00"</item>
+        <item>"11:00:00"</item>
+        <item>"12:00:00"</item>
+        <item>"13:00:00"</item>
+        <item>"14:00:00"</item>
+        <item>"15:00:00"</item>
+        <item>"16:00:00"</item>
+        <item>"17:00:00"</item>
+        <item>"18:00:00"</item>
+        <item>"19:00:00"</item>
+        <item>"20:00:00"</item>
+        <item>"21:00:00"</item>
+        <item>"22:00:00"</item>
+        <item>"23:00:00"</item>
+    </string-array>
+
+    <string name="times_prompt">Select Reach Time</string>
+
+    <string-array name="times_array">
+        <item>"00:00:00"</item>
+        <item>"01:00:00"</item>
+        <item>"02:00:00"</item>
+        <item>"03:00:00"</item>
+        <item>"04:00:00"</item>
+        <item>"05:00:00"</item>
+        <item>"06:00:00"</item>
+        <item>"07:00:00"</item>
+        <item>"08:00:00"</item>
+        <item>"09:00:00"</item>
+        <item>"10:00:00"</item>
+        <item>"11:00:00"</item>
+        <item>"12:00:00"</item>
+        <item>"13:00:00"</item>
+        <item>"14:00:00"</item>
+        <item>"15:00:00"</item>
+        <item>"16:00:00"</item>
+        <item>"17:00:00"</item>
+        <item>"18:00:00"</item>
+        <item>"19:00:00"</item>
+        <item>"20:00:00"</item>
+        <item>"21:00:00"</item>
+        <item>"22:00:00"</item>
+        <item>"23:00:00"</item>
+    </string-array>
+
+</resources>
