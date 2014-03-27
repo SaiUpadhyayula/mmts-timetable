@@ -26,7 +26,7 @@ public class ResultsAdapter
         mDbHelper = new DataBaseHelper(mContext); 
     } 
  
-  /**  public ResultsAdapter createDatabase() throws SQLException  
+    public ResultsAdapter createDatabase() throws SQLException  
     { 
         try  
         { 
@@ -82,28 +82,6 @@ public class ResultsAdapter
          } 
      }
      
-     
-
- 	public boolean SaveEmployee(String name, String email) 
- 	{
- 		try
- 		{
- 			ContentValues cv = new ContentValues();
- 			cv.put("Name", name);
- 			cv.put("Email", email);
- 			
- 			mDb.insert("Employees", null, cv);
-
- 			Log.d("SaveEmployee", "informationsaved");
- 			return true;
- 			
- 		}
- 		catch(Exception ex)
- 		{
- 			Log.d("SaveEmployee", ex.toString());
- 			return false;
- 		}
- 	} **/
      
 
 } 
